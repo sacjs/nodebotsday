@@ -126,7 +126,7 @@ Have fun hacking!
 
 *   [NodeBots.io](http://nodebots.io/)
 *   [Johnny Five](http://johnny-five.io/)
-*   [NodeBot NodeSchool Workshop](https://github.com/tableflip/nodebot-workshop)
+*   [NodeBots NodeSchool Workshop](https://github.com/tableflip/nodebot-workshop)
 *   [NodeBots Interchange](https://github.com/j5js/nodebots-interchange)
 *   [NodeBots Day](https://github.com/nodebots/nodebotsday)
 *   [NodeBots Reddit](https://www.reddit.com/r/NodeBots/)
