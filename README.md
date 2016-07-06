@@ -127,6 +127,7 @@ Have fun hacking!
 *   [NodeBots.io](http://nodebots.io/)
 *   [Johnny Five](http://johnny-five.io/)
 *   [NodeBots NodeSchool Workshop](https://github.com/tableflip/nodebot-workshop)
+*   [Arduino Experimenter's Guide for NodeJS](http://node-ardx.org/)
 *   [NodeBots Interchange](https://github.com/j5js/nodebots-interchange)
 *   [NodeBots Day](https://github.com/nodebots/nodebotsday)
 *   [NodeBots Reddit](https://www.reddit.com/r/NodeBots/)
