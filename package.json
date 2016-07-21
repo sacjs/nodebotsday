@@ -5,7 +5,7 @@
   "main": "bot.js",
   "license": "MIT",
   "scripts": {
-    "start": "node index.js",
+    "start": "node bot.js",
     "uno:flash": "firmata-party uno"
   },
   "dependencies": {
