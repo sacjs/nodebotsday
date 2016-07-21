@@ -98,7 +98,7 @@ Now that you have a basic understanding of how to attach and program the various
 
 3.  Mount the Motor Shield to the Arduino
 
-4.  Mount a motor to each side panel using 2 1" bolts and 2 3/8" washers
+4.  Mount a motor to each side panel using 2 1" bolts and 2 3/8" nuts
 
 5.  Assemble the chassis by inserting the tabs of the top and bottom panel into the slots of the side panels
 
