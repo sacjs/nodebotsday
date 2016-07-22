@@ -73,10 +73,10 @@ If this is the first time you've ever played with hardware or are new to [Johnny
 
 Each lesson covers one aspect of the SumoBot so that at the end, you'll have a fundamental understanding of how each piece works and how to control them.
 
-*   [Lesson #1](tutorials/lesson_1.js) - Using Johnny Five to control an LED ([answers](tutorials/answers/lesson_1.js))
-*   [Lesson #2](tutorials/lesson_2.js) - Operating a Servo  ([answers](tutorials/answers/lesson_1.js))
-*   [Lesson #3](tutorials/lesson_3.js) - Operating a Motor  ([answers](tutorials/answers/lesson_1.js))
-*   [Lesson #4](tutorials/lesson_4.js) - Control components from the keyboard  ([answers](tutorials/answers/lesson_1.js))
+*   [Lesson #1](tutorials/lesson_1.js) - Using Johnny Five to control an LED ([answers](tutorials/answers/lesson_1-answer.js))
+*   [Lesson #2](tutorials/lesson_2.js) - Operating a Servo  ([answers](tutorials/answers/lesson_2-answer.js))
+*   [Lesson #3](tutorials/lesson_3.js) - Operating a Motor  ([answers](tutorials/answers/lesson_3-answer.js))
+*   [Lesson #4](tutorials/lesson_4.js) - Control components from the keyboard  ([answers](tutorials/answers/lesson_4-answer.js))
 
 These lessons are available to edit and run locally on your machine:
 
